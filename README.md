@@ -34,6 +34,27 @@ Filtered: Blocked by a firewall or security rules, with no response or a "destin
 
 
 
+
+
+Installation Steps:
+
+Clone the repository into a specific directory:
+
+git clone https://github.com/AkinlawonDMentor/akinportscanner.git
+
+Navigate to the directory:
+
+cd akinportscanner
+
+Usage:
+
+python akinportscanner.py  target(e.g testphp.vulnweb.com)
+
+
+
+
+
+
 Ethical Considerations:
 
 Using a port scanner on a network without permission is illegal in many jurisdictions. Always ensure that you have proper authorization before conducting port scans.
